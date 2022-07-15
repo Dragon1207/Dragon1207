@@ -3,7 +3,7 @@
 
 Hey, I’m **Dragon1207**.
 
-I’m a full-stack developer who has strong experience in web and mobile development. My major skills are Django for backend and Vue for frontend.
+I’m a full-stack developer who has strong experience in web and mobile development. My major skills are Django for backend and React for frontend.
 
 ### Languages
 
