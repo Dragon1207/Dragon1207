@@ -39,9 +39,6 @@ I’m a full-stack developer who has strong experience in web and mobile develop
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Dragon1207&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"  />
 </p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Dragon1207&theme=redical">
-</p> 
 <p align="center">
   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
