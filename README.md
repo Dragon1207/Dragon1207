@@ -1,7 +1,7 @@
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 ### 👋
 
-Hey, I’m **Dragon1207**.
+Hey, I’m **Miguel Cortez**.
 
 I’m a full-stack developer who has strong experience in web and mobile development. My major skills are Django for backend and React for frontend.
 
