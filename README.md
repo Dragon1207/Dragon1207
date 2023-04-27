@@ -3,7 +3,7 @@
 
 Hey, I’m **Miguel Cortez**.
 
-I’m a full-stack developer who has strong experience in web and mobile development. My major skills are Django for backend and React for frontend.
+I’m a full-stack developer who has strong experience in web and mobile development. My major skills are React for frontend and Django for the backend.
 
 ### Languages
 
