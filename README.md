@@ -1,10 +1,6 @@
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 ### 👋
 
-Hey, I’m **Dragon1207**.
-
-I’m a full-stack developer who has strong experience in web and mobile development. My major skills are React for frontend and Node.js for the backend.
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
